@@ -1,0 +1,77 @@
+@charset "utf-8";
+/* CSS Document */
+body {
+	font-size: 1em;
+	line-height: 1.3em;
+}
+/* classes */
+.burntred {
+	color: #E94D40;
+}
+.navyblue {
+	color: #0C243C;
+}
+.specialcakesfont {
+	font-family: Arial, sans-serif;
+}
+.floatleft {
+    float: left;
+}
+.floatright {
+    float: right;
+}
+.clearboth {
+    clear: both;
+}
+
+header a{
+	color: #E94D40;
+	font-size: 20px;
+	font-family: Arial, sans-serif;
+}
+header li{
+	text-align: center;
+	display: inline;
+	padding: 10px;
+}
+footer{
+	background-color: #0C243C;
+	border: solid #E94D40 10px;
+}
+footer p{
+	font-family: Arial, sans-serif;
+	color: white;
+	text-align: center;
+	font-size: 15px;
+}
+main{
+	font-family: Arial, sans-serif;
+}
+main h1,h2,h3,h4{
+	color: #E94D40;
+}
+main p{
+	color: #0C243C;
+}
+form{
+	color: #E94D40;
+	font-family: Arial, sans-serif;
+}
+.text{
+	color: #0C243C;
+	font-family: Arial, sans-serif;
+}
+table,th,td{
+	color:#E94D40 ;
+	font-family: Arial, sans-serif;
+	border: solid 2px #0C243C;
+}
+th{
+	color: #0C243C;
+	background-color: #E94D40;
+}
+.images{
+	text-align: left;
+	border: solid 2px #E94D40;
+}
+
